@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  loginsight-cloud-helm-fluentbit:
+  - apiVersion: v2
+    created: "2021-05-25T15:10:10.911851308Z"
+    description: A Helm chart to push Kubernetes Logs to vRealize Log Insight Cloud
+      using fluentbit.
+    digest: f2d568695164b244fd85170e4a724817f744afaf656a6c438820f02a69d04ee3
+    name: loginsight-cloud-helm-fluentbit
+    urls:
+    - https://munishpalmakhija.github.io/loginsight-cloud-helm-fluentbit/loginsight-cloud-helm-fluentbit-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-25T15:10:10.91146718Z"

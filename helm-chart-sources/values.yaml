@@ -1,0 +1,16 @@
+# This is a YAML-formatted file.
+image:
+  name: "fluent/fluent-bit"
+  tag: "1.7" 
+  pullPolicy: IfNotPresent
+fluentbitconfig:
+  workers: "4"
+vrlic:
+  scheme: "https"
+  host: "data.mgmt.cloud.vmware.com"
+  port: "443"
+  sslVerify: "true"
+  apiKey: "uWunvQr4EI2IFDuUNRw3WaF1qIsv9OnI"
+tag:
+  environment: "Prod"
+  clustername: "K8Cluster"
