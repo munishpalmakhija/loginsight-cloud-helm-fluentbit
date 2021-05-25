@@ -10,7 +10,7 @@ vrlic:
   host: "data.mgmt.cloud.vmware.com"
   port: "443"
   sslVerify: "true"
-  apiKey: "uWunvQr4EI2IFDuUNRw3WaF1qIsv9OnI"
+  apiKey: "SETME"
 tag:
   environment: "Prod"
   clustername: "K8Cluster"
