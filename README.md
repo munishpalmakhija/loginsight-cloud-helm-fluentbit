@@ -1,4 +1,4 @@
-# loginsight-helm-fluentd
+# loginsight-cloud-helm-fluentd
 
 This repo contains helm charts to push Kubernetes Logs to vRealize Log Insight using fluentd daemonset. 
 
